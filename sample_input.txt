@@ -1,0 +1,88 @@
+1
+1
+101
+Ravi Kumar
+34
+Male
+9876543210
+ravi@gmail.com
+1
+102
+Sita Devi
+28
+Female
+9123456780
+sita@gmail.com
+3
+4
+2
+1
+201
+Dr. Anil Sharma
+General Physician
+500
+true
+1
+202
+Dr. Priya Rao
+Cardiologist
+800
+true
+4
+5
+3
+1
+301
+101
+201
+2026-10-10
+1
+302
+102
+202
+2026-10-11
+1
+303
+102
+201
+2026-10-12
+2
+303
+2026-10-15
+4
+5
+4
+1
+401
+101
+201
+Viral Fever
+Paracetamol 650mg
+1-0-1 after food
+4
+401
+5
+5
+1
+501
+101
+500
+150
+2
+501
+3
+501
+5
+6
+1
+101
+2
+303
+5
+7
+1
+2
+3
+4
+5
+8
